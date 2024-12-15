@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Host=dpg-cq9oc8jv2p9s73cllde0-a.oregon-postgres.render.com;Database=librarydb_32cv;Username=foyershtein;Password=LISwmgiBi9NneNbBovnrfrZnEed2M38m;" Npgsql.EntityFrameworkCore.PostgreSQL -OutputDir models -Context LiberiansDbContext -Force

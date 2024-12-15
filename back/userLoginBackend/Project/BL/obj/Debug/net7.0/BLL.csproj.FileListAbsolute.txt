@@ -1,0 +1,446 @@
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.Up2Date
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.Up2Date
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.Up2Date
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\BLL.pdb
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\BL\obj\Debug\net7.0\ref\BLL.dll

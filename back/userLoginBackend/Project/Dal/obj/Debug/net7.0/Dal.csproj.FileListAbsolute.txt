@@ -1,0 +1,543 @@
+H:\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+H:\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+H:\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.dll
+H:\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.pdb
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.dll
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.pdb
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+H:\project C# amd server\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\project C# amd server\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Project-SH-B\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Project-SH-B\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Project-SH-B\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\Project-SH-B\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.pdb
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\bin\Debug\net7.0\Dal.pdb
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\פרטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\פרטיקום\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\project_back_main\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\main_back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\פרויקט סופי\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\פרטיקום\backMain\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\פרטיקום\B\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\back ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\פרטיקום\עותק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\main back חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן back חדשששששש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\פרויקט מהענן\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\פרויקט פרקטיקום\פרויקט באק חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\ענן ענן back חדש חדש חדש\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\סופי ענן Back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\הורדת פרויקט 28.07\עדכני back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\mfr99\OneDrive\שולחן העבודה\באק חדש ענן\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כב תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\פרטיקום\עותק\back\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\פרקטיקום\כג תמוז בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\הנדסאים\תיקון בק\foirstein-1-back\userLoginBackend\Project\Dal\obj\Debug\net7.0\ref\DAL.dll

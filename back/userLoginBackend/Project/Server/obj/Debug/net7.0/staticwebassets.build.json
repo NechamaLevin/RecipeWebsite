@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zyTuRFD7lYL0MSjMDz6OQP8gH27ZzbB4t37BY3lIc3c=",
+  "Source": "userLoginBackend",
+  "BasePath": "_content/userLoginBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

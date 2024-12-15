@@ -1,0 +1,671 @@
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.Development.json
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.json
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.exe
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.deps.json
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.dll
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.pdb
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.dll
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\refint\Server.dll
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.pdb
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+H:\project C# amd server\Project\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Server.exe
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Server.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Server.exe
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Server.exe
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Server.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Bl.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Bl.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\bin\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Server.exe
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Bl.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Server.exe
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Bl.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Server\obj\Debug\net7.0\ref\Server.dll
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.dll
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\refint\Server.dll
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.pdb
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.json
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.exe
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.deps.json
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Server.pdb
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Humanizer.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Bl.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.dll
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Bl.pdb
+C:\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.pdb
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\project C# amd server\Project\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.json
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.exe
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.deps.json
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.pdb
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Bl.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Bl.pdb
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.pdb
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.dll
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.pdb
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\ref\Server.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\refint\Server.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.pdb
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.Development.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\appsettings.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.exe
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.deps.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Server.pdb
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Core.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Humanizer.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Bl.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Bl.pdb
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\Dal.pdb
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\AutoMapper.dll
+C:\Project-SH-B\project C# amd server\Project\Server\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Project-SH-B\project C# amd server\Project\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs

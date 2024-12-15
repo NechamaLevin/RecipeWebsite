@@ -1,0 +1,114 @@
+H:\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.deps.json
+H:\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.dll
+H:\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.pdb
+H:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+H:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+H:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+H:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+H:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.dll
+H:\project C# amd server\Project\BL\obj\Debug\net7.0\refint\Bl.dll
+H:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.pdb
+H:\project C# amd server\Project\BL\obj\Debug\net7.0\ref\Bl.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.deps.json
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.pdb
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\obj\Debug\net7.0\refint\Bl.dll
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.pdb
+C:\Users\user1\Desktop\הנדסאים\project C# amd server\Project\BL\obj\Debug\net7.0\ref\Bl.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\Bl.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\refint\Bl.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\Bl.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\bin\Debug\net7.0\Bl.deps.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\bin\Debug\net7.0\Bl.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\bin\Debug\net7.0\Bl.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\bin\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\bin\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\Bl.csproj.CopyComplete
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\BL\obj\Debug\net7.0\ref\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\refint\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\Bl.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\bin\Debug\net7.0\Bl.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\bin\Debug\net7.0\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\bin\Debug\net7.0\Bl.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\Bl.csproj.CopyComplete
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\BL\obj\Debug\net7.0\ref\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\bin\Debug\net7.0\Bl.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\bin\Debug\net7.0\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\bin\Debug\net7.0\Bl.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\Bl.csproj.CopyComplete
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\refint\Bl.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\Bl.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\BL\obj\Debug\net7.0\ref\Bl.dll
+C:\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.deps.json
+C:\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.dll
+C:\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.pdb
+C:\project C# amd server\Project\BL\bin\Debug\net7.0\Dal.dll
+C:\project C# amd server\Project\BL\bin\Debug\net7.0\Dal.pdb
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.CopyComplete
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.dll
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\refint\Bl.dll
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.pdb
+C:\project C# amd server\Project\BL\obj\Debug\net7.0\ref\Bl.dll
+C:\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.deps.json
+C:\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.dll
+C:\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.pdb
+C:\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Dal.dll
+C:\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Dal.pdb
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.CopyComplete
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.dll
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\refint\Bl.dll
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.pdb
+C:\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\ref\Bl.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.deps.json
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Bl.pdb
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Dal.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\bin\Debug\net7.0\Dal.pdb
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.csproj.CopyComplete
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\refint\Bl.dll
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\Bl.pdb
+H:\project C# amd server\Project-SH-B\project C# amd server\Project\BL\obj\Debug\net7.0\ref\Bl.dll
